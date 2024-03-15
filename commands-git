@@ -1,0 +1,4 @@
+git clone {repository URL}
+git push
+git push origin [branch name]
+git push -u origin master
