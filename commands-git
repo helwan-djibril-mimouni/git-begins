@@ -3,3 +3,5 @@ git push
 git push origin [branch name]
 git push -u origin master
 git pull
+git branch [branch name]
+git checkout [branch name]
